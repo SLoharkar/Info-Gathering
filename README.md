@@ -7,3 +7,10 @@ git clone https://github.com/SLoharkar/Info-Gathering.git
 cd Info-Gathering
 chmod +x info.sh && ./info.sh
 ```
+## Dependency
+```bash
+apt install sublist3r
+apt install dnsenum
+apt install whatweb
+apt install whois
+```
