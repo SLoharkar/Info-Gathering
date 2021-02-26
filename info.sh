@@ -1,3 +1,13 @@
+a1=("whois" "sublist3r" "dnsenum" "whatweb" )
+i=0
+while [ $i -lt 5 ]
+do
+if ! which ${a1[$i]}  > /dev/null; then
+	printf " Package install ${a1[$i]} $i \n "
+	sudo apt install ${a1[$i]}
+fi
+i=`expr $i + 1`
+done 
 hello ()
 {
 printf " Enter the website or ip address to gather information : \t "
