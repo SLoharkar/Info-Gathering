@@ -1,5 +1,5 @@
 printf " Automatically Check dependency and Install "
-a1=("whois" "sublist3r" "dnsenum" "whatweb" )
+a1=("whois" "sublist3r" "dnsenum" "whatweb")
 i=0
 while [ $i -lt 5 ]
 do
