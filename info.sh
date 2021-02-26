@@ -1,4 +1,4 @@
-printf " Automatically Check dependency and Install "
+printf " Automatically Check dependencies and Install "
 a1=("whois" "sublist3r" "dnsenum" "whatweb")
 i=0
 while [ $i -lt 5 ]
