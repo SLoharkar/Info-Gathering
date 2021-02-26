@@ -11,13 +11,13 @@ git clone https://github.com/SLoharkar/Info-Gathering.git
 $ cd Info-Gathering
 chmod +x info.sh && ./info.sh
 ````
-## Dependency
+## Dependencies
 **`Info-Gathering`** requires following programs to run properly -
-```bash
-apt install sublist3r
-apt install dnsenum
-apt install whatweb
-apt install whois
-```
+- `sublist3r`
+- `dnsenum`
+- `whatweb`
+- `whois`
+
+> All the dependencise will be installed automatically when you run `info` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
