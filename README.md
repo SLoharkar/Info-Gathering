@@ -18,6 +18,6 @@ chmod +x info.sh && ./info.sh
 - `whatweb`
 - `whois`
 
-> All the dependencise will be installed automatically when you run `info` for the first time.
+> All the dependencies will be installed automatically when you run `info` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
