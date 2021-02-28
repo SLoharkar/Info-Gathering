@@ -6,7 +6,7 @@
 ## Features
 - Time Saving
 - Less efforts in remember commands
-- User Friendly Language
+- Easy to run and understand 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 - Just, Clone this repository -
