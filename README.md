@@ -1,10 +1,10 @@
 # Automatic Information Gathering Shell Script in Linux
 
 ## Introduction
-- In shell script multiple tools combined at a one script you can perform multiple operation like `Whois`, `Whatweb`, `Find Subdomains` and `DNS Information`
+In shell script multiple tools combined at a one script you can perform multiple operation like `Whois`, `Whatweb`, `Find Subdomains` and `DNS Information`
 
 ## Features
-- Time Saving
+- Time Saving 
 - Less efforts in remember commands
 - Easy to run and understand 
 
