@@ -16,7 +16,7 @@ git clone https://github.com/SLoharkar/Info-Gathering.git
 - Change to cloned directory and run `info.sh` -
 ````
 $ cd Info-Gathering
-chmod +x info.sh && ./info.sh
+chmod +x info.sh && ./info.sh OR bash info.sh
 ````
 ## Dependencies
 **`Info-Gathering`** requires following programs to run properly -
